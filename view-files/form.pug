@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    title Form
+  body
+    h1 Checking CSRF Token validation
+
+    form(method="post", action="/response")
+      input(type="hidden", name="_csrf", value= csrfToken)
+      input(type="text", name="username", placeholder="username")
+      input(type="password", name="password", placeholder="password")
+      input(type="submit", value="Send")
