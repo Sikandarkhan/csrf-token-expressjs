@@ -2,7 +2,7 @@
 
 This repository demonstrates how to implement **Cross-Site Request Forgery (CSRF)** protection in Express.js applications using the [`csurf`](https://www.npmjs.com/package/csurf) middleware. It offers a secure foundation for modern web applications.
 
-![Express CSRF Protection Demo](https://via.placeholder.com/800x400.png?text=Express+CSRF+Protection+Demo)
+![Express CSRF Protection Demo]([https://via.placeholder.com/800x400.png?text=Express+CSRF+Protection+Demo](https://user-images.githubusercontent.com/7334929/158018502-2925ce42-cd8c-41a3-b743-758999d9d8e2.mov))
 
 ---
 
